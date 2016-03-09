@@ -42,6 +42,11 @@ public class Thermometer extends AppCompatActivity {
 
     }
 
+    private void TestPush()
+    {
+        int i = 1 + 1;
+    }
+
 
 
 }
